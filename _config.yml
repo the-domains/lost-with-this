@@ -1,4 +1,4 @@
-name: Lost with this
+name: Roasting with J.A.M.
 favicon: null
 layout_spectrum: 0.7695403986144811
 typography_spectrum: 0.7816553451120853
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#000000'
+    - '#faceb1'
+    - '#757575'
+    - '#ababab'
   brandStrength: 0.24523363378830254
   lightness: 0.19608200923539698
   saturation: 0.9548893310129642
